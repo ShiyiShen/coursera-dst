@@ -8,3 +8,7 @@ Coursera Data Science Toolbox
 
 
 ### This is tertiary heading
+
+* first item in a list
+* second item in a list
+* third item in a list
